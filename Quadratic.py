@@ -25,3 +25,4 @@ elif(root1==root2):
 print(root1,  root2)
 after=time.time()
 print("time=",(after-before))
+print("END")
